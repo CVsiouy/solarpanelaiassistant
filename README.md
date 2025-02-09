@@ -12,8 +12,11 @@ and decrease of solar panels and future scope of the project.
 
 ## Required Dependencies
 -> streamlit
+
 -> plotly
+
 -> requests
+
 
 
 ## Set Up the Script
@@ -36,6 +39,8 @@ The required tools for running this python file are:-
 2.) In the code please ensure
   if st.button(question, on_click=handle_question_click, args=(question,)):   
 
+  
+
   a.) on_click and onclick not coincide
 
   b.) Do not write handle_question_click() as that will make the function run without clicking any button
@@ -44,6 +49,8 @@ The required tools for running this python file are:-
 
 
   It is very much to read documentation for streamlit.button() for advanced usecase
+
+  
 
 3.) Ensure proper logic of sessions and avoid recursion and do proper error checking to reduce errors
 
@@ -85,7 +92,11 @@ The required tools for running this python file are:-
 
 ![image](https://github.com/user-attachments/assets/53ca98e2-9854-43ee-b075-eeee8afcee4e)
 
+
+
 ![image](https://github.com/user-attachments/assets/1be81fa9-8320-4388-86e8-d282c563094a)
+
+
 
 ![image](https://github.com/user-attachments/assets/b25f623a-9e85-41ba-9814-946eb6247cb0)
 
