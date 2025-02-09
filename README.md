@@ -37,8 +37,11 @@ The required tools for running this python file are:-
   if st.button(question, on_click=handle_question_click, args=(question,)):   
 
   a.) on_click and onclick not coincide
+
   b.) Do not write handle_question_click() as that will make the function run without clicking any button
+
   c.) use of appropriate args or kwargs
+
 
   It is very much to read documentation for streamlit.button() for advanced usecase
 
