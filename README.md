@@ -1,6 +1,6 @@
 # Solar AI Assistant | wattmonk
 
-This is a Wattmonk Ai assignment where I create an AI assistant with the help of Qwen VL Plus LLM
+This is a Wattmonk AI assignment where I create an AI assistant with the help of Qwen VL Plus LLM
 accessed by openrouter API key. The assignment involves creation of a web interface by streamlit 
 and integration of the chosen LLM with the web interface. The AI assistant has been upgraded to 
 provide prompts related to user prompt after each response to effectively solve the user query and 
@@ -100,6 +100,8 @@ The required tools for running this python file are:-
 
 ![image](https://github.com/user-attachments/assets/b25f623a-9e85-41ba-9814-946eb6247cb0)
 
+## Contact
+Chirag Verma | +91 (798)-8055-537 | chiragverma00310@gmail.com
 
 
 
