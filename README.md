@@ -48,37 +48,37 @@ The required tools for running this python file are:-
   c.) use of appropriate args or kwargs
 
 
-  It is very much to read documentation for streamlit.button() for advanced usecase
+  It is very much recommended to read documentation for streamlit.button() for advanced usecase.
 
   
 
-3.) Ensure proper logic of sessions and avoid recursion and do proper error checking to reduce errors
+3.) Ensure proper logic of sessions and avoid recursion and do proper error checking to reduce errors.
 
-4.) In streamlit widgets load before text so ensure that buttons do not show on top of page above the title
+4.) In streamlit, widgets load before text so ensure that buttons do not show on top of page above the title.
 
 ## Future Scope
-1.) Can be used by customers to resolve all queries immediately via the bot
+1.) Can be used by customers to resolve all queries immediately via the bot.
 
-2.) Can be used to provide educational content for primary and secondary schooling
+2.) Can be used to provide educational content for primary and secondary schooling.
 
-3.) Can be used to provide solar panel optimal efficiency with usage of weather APIs
+3.) Can be used to provide solar panel optimal efficiency with usage of weather APIs.
 
-4.) Able to generate in-depth Reports and Visualization for solar panel installation based on location 
+4.) Able to generate in-depth Reports and Visualization for solar panel installation based on location. 
 
-5.) Used for direct notification on changes on any rule and government subsidies and keeping up with market trends and industry regulations
+5.) Used for direct notification on changes on any rule and government subsidies and keeping up with market trends and industry regulations.
 
 6.) Can be used to check for any maintenance issues and connecting with the company directly.
 
 ## Future Upgrades
-1.) Google Oauth and Database can be added to store data for each user if they ever need to read their previous prompts again
+1.) Google Oauth and Database can be added to store data for each user if they ever need to read their previous prompts again.
 
-2.) Scraping of Latest News web articles can be done on the LatestNews.py page 
+2.) Scraping of Latest News web articles can be done on the LatestNews.py page. 
 
-3.) A broader Cost & ROI Analysis for Solar Panel installation may be adopted
+3.) A broader Cost & ROI Analysis for Solar Panel installation may be adopted.
 
-4.) Some blogs and Government schemes can be added for awareness purpose
+4.) Some blogs and Government schemes can be added for awareness purpose.
 
-5.) Integration with weather API to provide Insight about optimal solar panel efficiency
+5.) Integration with weather API to provide Insight about optimal solar panel efficiency.
 
 6.) Include a forum or Q&A section where users can share their experiences or ask questions to other users.
 
